@@ -1,4 +1,5 @@
 # 🖼️ Parallel Image Processing Service with Java & Spring Boot 🚀
+![image](https://github.com/user-attachments/assets/fbead410-2070-4a73-b296-d6d5f7cd5dce)
 
 This project demonstrates how to build a **high-performance image processing service** using **Java**, **Spring Boot**, and **Spring Data JPA**. It applies image filters in **parallel** to maximize performance and efficiency.
 
