@@ -28,7 +28,7 @@ Client applications can upload an image and request that a specific filter be ap
 ### Clone and Build
 
 ```bash
-git clone https://github.com/your-username/parallel-image-processor.git
+git clone https://github.com/AbhishekCS3459/Parallel_Image_Processor
 cd parallel-image-processor
 mvn clean install
 ```
