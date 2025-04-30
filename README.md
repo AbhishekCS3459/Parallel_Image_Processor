@@ -168,12 +168,3 @@ curl "http://localhost:8080/filter?imageId=1&filterType=grayscale"
 📂 You can find the full source code in this GitHub repository:  
 👉 [GitHub Repo Link](https://github.com/AbhishekCS3459/Parallel_Image_Processor)
 
----
-
-## 🙌 Like this project?
-
-If you found this helpful, give it a ⭐ on GitHub or share it with your peers. Contributions are welcome!
-
----
-
-Would you like me to generate a `logo.png` or architecture diagram for this README as well?
